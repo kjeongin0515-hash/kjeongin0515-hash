@@ -10,10 +10,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
 ## 📌 프로젝트
 - 🦺 [스마트 안전관리 시스템 (AIoT)](https://github.com/kjeongin0515-hash/smart-safety-system-AIOT)
 - 🤖 [미술관 가이드 로봇](https://github.com/kjeongin0515-hash/Art-Museum-Guide-Robot)
+- 🍎 [농장 판별 수확 및 판매 시스템](https://github.com/frogjun12-jpg/all-in-one-fresh-farm)
 
-## 📊 GitHub 통계
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjeongin0515-hash&show_icons=true&theme=default)
